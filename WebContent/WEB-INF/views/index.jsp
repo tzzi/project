@@ -6,6 +6,11 @@
 <head>
 <title>Project with GET</title>
 </head>
+<style>
+	body,h1{
+		font-family: 궁서체;
+	}
+</style>
 <body>
 	<h1>Project managed by GET</h1>
 </body>
