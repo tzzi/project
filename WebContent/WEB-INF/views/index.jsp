@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Project with GET</title>
+<title>Project with GIT</title>
 </head>
 <style>
 	body,h1{
@@ -16,6 +16,7 @@
 	}
 </style>
 	<h1>Project managed by </h1><h2>GIT</h2>
+	<a href="/account/join.do">회원가입</a>
 	<p>
 		소스 코드 관리를 위한 분산 버전 관리 시스템이다.
 	</p>
