@@ -11,6 +11,9 @@
 		font-family: 궁서체;
 		font-size: 50px;
 	}
+	h2{
+		color: red;
+	}
 </style>
 	<h1>Project managed by </h1><h2>GIT</h2>
 	<p>
