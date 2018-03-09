@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class LogoutController {
 	@RequestMapping("/logout.do")
 	public String accountLogoutHandle(){
+		String a = "hi";
 		return "account/logout";
 	}
 }
